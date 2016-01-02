@@ -1,0 +1,23 @@
+Files included -
+
+1)Iris_euclid_dataframe.R
+2)Iris_manhat_dataframe.R
+3)Income_euclid.R
+4)Income_manhat.R
+5)Report
+
+1) How to run the code ?
+Load the script onto R by selecting File->open script->filename.
+Select the entire script by Ctrl+A and then right click for Run line or Selection to run the script?
+
+2) What is it printing to console?
+Since dataframes in R takes so long to compute, The neighbors for each row is printed as soon as its calculated.
+
+3)Where to find the output files
+Output files will be generated in the working directory of R
+Output is exported to a .csv files for each method for each dataset respectively:
+
+1)Iris_euclid_dataframe.R -> Iris_euclid_output.csv
+2)Iris_manhat_dataframe.R -> Iris_manhat_output.csv
+3)Income_euclid.R -> Income_euclid_output.csv
+3)Income_manhat.R -> Income_manhat_output.csv

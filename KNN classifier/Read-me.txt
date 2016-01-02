@@ -1,0 +1,17 @@
+Files included -
+
+1)Income_knn.R
+2)iris_knn.R
+3)Report
+4)ROC EUCLID CURVE.png
+5)ROC MANHATTAN CURVE.png
+1) How to run the code ?
+Load the script onto R by selecting File->open script->filename.
+Select the entire script by Ctrl+A and then right click for Run line or Select to run the script.
+
+2) What is it printing to console?
+The output table nx4 and error rates and confusion matrices are printed to console.
+
+3)Where to find the output files
+Output files will be generated in the working directory of R
+Output is exported to a .csv files for each dataset
