@@ -5,8 +5,6 @@ Files included:-
 4)Report
 5)All plots
 
-The size of the report is slightly higher (12 pages)  but most of it contains only output and not text. So I talked to Dr.Jason about it. He said since most of the report is the outputs asked in the HW5.pdf, it might not be a problem for the TA. Sorry about that.
-
 1) How to run the code ?
 Load the script onto RStudio by selecting File->open script->filename.
 Click source.
